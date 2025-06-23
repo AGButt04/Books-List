@@ -81,4 +81,4 @@ This project demonstrates proficiency in:
 4. **Navigation**: Use the mouse or keyboard to select books in the scrollable list
 
 ---
-**Part of my programming portfolio** | (https://github.com/AGButt04) | (https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
+**Part of my programming portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
